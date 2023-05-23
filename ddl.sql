@@ -10,3 +10,5 @@ BEGIN
   SYS.DBMS_SYS_SQL.CLOSE_CURSOR(c);                                  -- Noncompliant
 END;
 /
+
+-- whatever
